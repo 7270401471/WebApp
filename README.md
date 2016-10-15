@@ -10,13 +10,13 @@
  	<img src="/showImg/03.jpg" width = "280" align=center />
 </div>
 
-<div align="left" style="margin-top:20px;">
+<div align="left" margin-top="20px;">
 	<img src="/showImg/04.jpg" width = "280" align=center />
  	<img src="/showImg/05.jpg" width = "280" align=center />
  	<img src="/showImg/06.png" width = "280" align=center />
 </div>
 
-<div align="left" style="margin-top:20px;">
+<div align="left" margin-top="20px;">
 	<img src="/showImg/07.jpg" width = "280" align=center />
 	<img src="/showImg/08.png" width = "280" align=center />
 </div>
